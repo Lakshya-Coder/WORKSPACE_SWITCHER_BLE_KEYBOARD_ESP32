@@ -2,7 +2,7 @@
 It's a simple prototype of a physical workspace switcher for macOS, it uses ble keyboard library for emulating the commands of the keyboard and a joystick for getting the commands where to switch the workspace.
 
 
-![image](https://github.com/user-attachments/assets/59c6c086-0599-4210-9df2-a3b05f1de210)
+[![image](https://github.com/user-attachments/assets/59c6c086-0599-4210-9df2-a3b05f1de210)](https://www.youtube.com/watch?v=s8QEe7rsWZo)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
